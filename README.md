@@ -6,7 +6,6 @@ My cheatsheet for a few tags/attributes
     <meta charset="UTF-8">
     <link href="./resources/style.css" type="text/css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap" rel="stylesheet">
-    <title>HTML/CSS Cheatsheet!</title>
 </head>
 <body>
     <h1>HTML/CSS Cheatsheet!</h1><br>
